@@ -1,0 +1,48 @@
+body{
+    margin: 20px;
+    background: url("9b909dfcf2a7f26eae988a531ddf1b02.jpg");
+    background-size: contain;
+    background-repeat:repeat;
+    color: #fff;
+}
+.intro{
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 20px;
+align-items: center;
+    text-align: center;
+}
+.h1, h2{
+    color: blanchedalmond;
+}
+.step{
+    font-weight: bolder;
+}
+.menu{
+    position:relative;
+}
+.table{
+    position: relative;
+    border-collapse: collapse;
+    border: 2px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    padding: 30px;
+    column-gap: 10px;
+    row-gap: 20px;
+    background-color: rgba(0, 0, 1.5);
+    align-items: center;
+    text-align: center;
+    align-self: center;
+}
+.tr, th, td{
+    border: 2px solid rgb(231, 228, 228);
+}
+.contact{
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 200px;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    font-weight: bolder;
+}
+
